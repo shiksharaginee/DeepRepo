@@ -1,6 +1,6 @@
-# RepoMind
+# DeepRepo
 
-**RepoMind** is an AI-powered tool that lets users query and understand GitHub repositories using natural language. It leverages Retrieval-Augmented Generation (RAG), OpenAI models, and vector embeddings to deliver context-aware responses grounded in source code.
+**DeepRepo** is an AI-powered tool that lets users query and understand GitHub repositories using natural language. It leverages Retrieval-Augmented Generation (RAG), OpenAI models, and vector embeddings to deliver context-aware responses grounded in source code.
 
 ## 🌐 Live Demo
 [Link](https://repomind.vercel.app/)
