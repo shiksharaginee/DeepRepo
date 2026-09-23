@@ -2,9 +2,6 @@
 
 **DeepRepo** is an AI-powered tool that lets users query and understand GitHub repositories using natural language. It leverages Retrieval-Augmented Generation (RAG), OpenAI models, and vector embeddings to deliver context-aware responses grounded in source code.
 
-## 🌐 Live Demo
-[Link](https://repomind.vercel.app/)
-
 ## 🚀 Features
 - Fetches GitHub commits and stores relevant data in PostgreSQL
 - Uses LangChain, OpenAI, and Gemini to generate summaries and answer queries
